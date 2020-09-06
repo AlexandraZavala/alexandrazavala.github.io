@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
+title: titulo
+description: hola
+show_downloads: true
